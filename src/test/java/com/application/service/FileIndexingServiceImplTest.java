@@ -19,7 +19,7 @@ class FileIndexingServiceImplTest {
     
 	@Before
 	private void before() {
-		System.err.println("sdfsd");
+		
 	}
 	
    @Test
